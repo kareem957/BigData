@@ -1,0 +1,61 @@
+CUST_ID,CUST_F_NAME,CUST_M_NAME,CUST_L_NAME,CUST_CC_NO,CARD_TYPE,CARD_LIMIT,CARD_END_DATE,CUST_SSN,CUST_STREET,CUST_CITY,CUST_STATE,CUST_COUNTRY,CUST_ZIP,CUST_PHONE,CUST_EMAIL
+3562001602,Chrissie,,Rayner,6334878173213670,amex,500000,2017-09-12,567936602,Noble Embers Ridge,Littleton,CO,US,80126,+1 717 949 2403,crayner1@intel.com
+3562001603,Titus,,Paolozzi,3567523223820780,visa,50000,2024-06-17,190445473,Blue Pioneer Bend,Caguas,PR,US,734,+1 757 848 9150,tpaolozzi2@blinklist.com
+3562001604,Jethro,Byrom,Winear,3039905356295530,amex,500000,2021-07-16,143032108,Little Common,San Marcos,CA,US,92069,+1 816 186 9310,bwinear3@vimeo.com
+3562001606,Lura,,Flye,3578070062995380,visa,50000,2018-10-20,280264513,Sleepy Quail Promenade,Passaic,NJ,US,7055,+1 772 139 8613,lflye5@dedecms.com
+3562001607,Merrill,,Ratcliff,5403648817321420,master,100000,2017-03-03,195223654,High Concession,Caguas,PR,US,732,+1 573 585 6385,mratcliff6@scribd.com
+3562001608,Venita,Lennard,Rutgers,3547496963061990,visa,50000,2024-05-24,531442970,Foggy Forest Plaza,Lawrence,MA,US,1841,+1 254 211 9979,lrutgers7@apache.org
+3562001610,Orbadiah,,Royson,3051418309044220,amex,500000,2023-04-01,835384343,Harvest Beacon Plaza,Stafford,VA,US,22554,+1 810 522 5383,oroyson9@go.com
+3562001611,Merle,,McGenn,4936290378811880,master,100000,2025-04-23,653470680,Stony Woods,Caguas,PR,US,731,+1 406 417 2673,mmcgenna@va.gov
+3562001612,Fidel,,Windas,3531017574361360,visa,50000,2019-07-09,355714929,Jagged Embers By-pass,San Antonio,TX,US,78227,+1 804 180 9650,fwindasb@sohu.com
+3562001613,Beatrice,,Feedome,3588589058006900,visa,50000,2019-03-18,763905687,Iron Oak Gardens,Caguas,PR,US,730,+1 309 683 3480,bfeedomec@huffingtonpost.com
+3562001614,Asia,,Trudgion,5602256302089870,amex,500000,2024-01-25,533779130,Hazy Pony Square,Pico Rivera,CA,US,90660,+1 954 856 5685,atrudgiond@istockphoto.com
+3562001615,Nessa,,Brisse,3566727575950610,visa,50000,2027-02-12,398859724,Burning Glen,Fontana,CA,US,92336,+1 419 532 7150,nbrissee@latimes.com
+3562001616,Cristine,Vittorio,Braxay,2017260974760290,amex,50000,2021-06-11,585616059,Iron Port,Caguas,PR,US,728,+1 480 225 2696,vbraxayf@google.es
+3562001617,Tucky,,Sabbatier,3058775791217550,amex,500000,2023-07-18,496377931,Noble Pike,Taylor,MI,US,48180,+1 916 850 3084,tsabbatierg@ezinearticles.com
+3562001621,Peg,,Welbrock,3537914201882630,visa,50000,2017-08-16,462741915,Old Willow Mall,Caguas,PR,US,726,+1 334 137 9866,pwelbrockk@privacy.gov.au
+3562001622,Amity,,Birkenshaw,3746221893451670,amex,500000,2017-10-24,527168982,Heather Plaza,Brownsville,TX,US,78521,+1 615 366 1814,abirkenshawl@eepurl.com
+3562001623,Marylynne,Sheff,Peddel,4913946420798260,visa,50000,2022-01-03,726028398,Noble Embers Ridge,Littleton,CO,US,80126,+1 864 790 6549,speddelm@pagesperso-orange.fr
+3562001624,Vladamir,Augy,Hehl,6763887925070990,master,100000,2025-09-04,854984549,Blue Pioneer Bend,Caguas,PR,US,734,+1 716 835 0196,ahehln@flickr.com
+3562001626,Giacomo,,Clifton,3746227754890490,amex,500000,2024-09-06,416699493,Sleepy Quail Promenade,Passaic,NJ,US,7055,+1 337 402 2450,gcliftonp@moonfruit.com
+3562001627,Dalila,,Weatherhead,3539018736993780,visa,50000,2024-06-05,756695602,Little Common,San Marcos,CA,US,92069,+1 808 398 2893,dweatherheadq@ox.ac.uk
+3562001629,Sherlock,Vince,Woolliams,5602225917136840,amex,500000,2021-02-12,381425374,Heather Plaza,Brownsville,TX,US,78521,+1 757 383 3911,vwoolliamss@moonfruit.com
+3562001630,Elladine,Kenneth,Dealy,6378610833616780,master,100000,2020-01-04,522026991,Jagged Embers By-pass,San Antonio,TX,US,78227,+1 859 998 8474,kdealyt@fda.gov
+3562001631,Marlow,Deane,Seleway,3537861601381620,visa,50000,2016-11-19,417953628,Noble Embers Ridge,Littleton,CO,US,80126,+1 412 982 3736,dselewayu@ebay.co.uk
+3562001634,Haywood,Cesare,Gernier,3555072384085640,visa,50000,2021-11-17,324748675,Blue Pioneer Bend,Caguas,PR,US,734,+1 212 448 8386,cgernierx@bandcamp.com
+3562001635,Sampson,,Genge,5602257512986730,amex,500000,2022-07-11,742724564,Hazy Pony Square,Pico Rivera,CA,US,90660,+1 757 695 1072,sgengey@pinterest.com
+3562001636,Iggy,,Wardale,3584827256597080,visa,50000,2024-11-23,629172934,Heather Plaza,Brownsville,TX,US,78521,+1 251 725 5153,iwardalez@oaic.gov.au
+3562001637,Lorain,,Crone,4913586748929930,visa,50000,2021-10-07,316626688,Little Common,San Marcos,CA,US,92069,+1 517 961 4429,lcrone10@umich.edu
+3562001638,Denny,,Hehir,5210169439885370,master,100000,2017-01-05,610816990,Sleepy Quail Promenade,Passaic,NJ,US,7055,+1 504 393 4533,dhehir11@dmoz.org
+3562001643,Edmund,,Trigg,5468084768591910,master,100000,2024-11-06,646192779,Red Treasure Bay,Caguas,PR,US,725,+1 206 405 7594,etrigg16@globo.com
+3562001649,Fawnia,,Swale,5127419432105430,master,100000,2025-03-21,531517681,Heather Plaza,Brownsville,TX,US,78521,+1 336 877 8067,fswale1c@china.com.cn
+3562001650,Cristine,,Juden,6334827235490350,amex,500000,2025-10-19,551848770,Heather Plaza,Brownsville,TX,US,78521,+1 704 677 7654,cjuden1d@mac.com
+3562001651,Freeman,Bartlet,Ledeker,3574831034580740,visa,50000,2027-04-18,403637146,Sleepy Quail Promenade,Passaic,NJ,US,7055,+1 517 911 6224,bledeker1e@ftc.gov
+3562001652,Gina,,Massimi,3553250558494440,visa,50000,2019-05-27,185955202,Noble Embers Ridge,Littleton,CO,US,80126,+1 502 816 5970,gmassimi1f@dell.com
+3562001654,Amil,Curr,Fawbert,5010120208028190,master,100000,2023-01-14,490994326,Blue Pioneer Bend,Caguas,PR,US,734,+1 253 856 2116,cfawbert1h@cbslocal.com
+3562001661,Clarinda,,Scoone,4936566808390050,master,100000,2026-08-11,636563744,Jagged Embers By-pass,San Antonio,TX,US,78227,+1 602 378 0333,cscoone1o@amazon.co.uk
+3562001662,Reta,,Nairy,2017763113611190,amex,500000,2018-05-11,651396269,Quaking Street,Caguas,PR,US,727,+1 203 243 6626,rnairy1p@51.la
+3562001664,Nessy,,Royal,6334792030406340,amex,500000,2023-05-01,639326651,Blue Pioneer Bend,Caguas,PR,US,734,+1 615 689 4921,nroyal1r@google.co.uk
+3562001667,Devlen,,Pietraszek,3576170925662380,visa,50000,2023-11-07,132925451,Little Common,San Marcos,CA,US,92069,+1 336 224 8090,dpietraszek1u@harvard.edu
+3562001674,Rhoda,Arlin,Biddles,3549138667705450,visa,50000,2020-05-22,828832569,Foggy Forest Plaza,Lawrence,MA,US,1841,+1 907 887 3749,abiddles21@usa.gov
+3562001675,Florenza,Marwin,Tortice,3576661367312800,visa,50000,2021-03-21,247313110,Noble Embers Ridge,Littleton,CO,US,80126,+1 413 980 1736,mtortice22@over-blog.com
+3562001676,Trumaine,Arel,Lukock,4905195125036260,master,100000,2024-10-06,138775149,Old Willow Mall,Caguas,PR,US,726,+1 281 295 2425,alukock23@desdev.cn
+3562001678,Bogart,Raimund,Summersby,3041940220450330,amex,500000,2024-05-25,580262327,Hazy Pony Square,Pico Rivera,CA,US,90660,+1 858 151 3669,rsummersby25@hubpages.com
+3562001679,Sawyer,,Ismail,3547026896168710,visa,50000,2026-12-22,519314802,Sleepy Quail Promenade,Passaic,NJ,US,7055,+1 941 433 7712,sismail26@behance.net
+3562001680,Nelie,Rollin,Camelin,5602250664479540,amex,500000,2023-07-23,725510273,Burning Glen,Fontana,CA,US,92336,+1 801 991 6031,rcamelin27@bing.com
+3562001681,Jacklin,,Stango,6771126200690550,master,100000,2022-01-22,111143799,High Concession,Caguas,PR,US,732,+1 212 233 5381,jstango28@disqus.com
+3562001682,Ilario,,Hadfield,6304715204316940,master,100000,2017-04-07,469721617,Heather Plaza,Brownsville,TX,US,78521,+1 303 456 7717,ihadfield29@columbia.edu
+3562001683,Ruperto,Leupold,Martinez,3583060400927120,visa,50000,2021-05-13,759211565,Quaking Street,Caguas,PR,US,727,+1 916 966 0887,lmartinez2a@huffingtonpost.com
+3562001687,Meredeth,,Blaycock,6334071935110170,amex,500000,2018-03-18,342743043,Little Common,San Marcos,CA,US,92069,+1 817 502 7792,mblaycock2e@cdc.gov
+3562001688,Torrance,,Scrowby,4607915147472950,visa,50000,2018-03-07,727103869,Harvest Beacon Plaza,Stafford,VA,US,22554,+1 310 790 1038,tscrowby2f@unicef.org
+3562001689,Berton,Ryan,Mc Pake,5371063911268820,master,100000,2017-03-05,338877893,Hazy Butterfly Circle,Martinez,CA,US,92336,+1 765 201 1201,rmcpake2g@cbslocal.com
+3562001690,Sigismondo,,Clever,3553276103969740,visa,50000,2027-04-06,693722843,High Concession,Caguas,PR,US,732,+1 713 329 4233,sclever2h@prnewswire.com
+3562001691,Bidget,Curcio,Chestnutt,5602255813010240,amex,500000,2023-08-27,310164096,Sleepy Quail Promenade,Passaic,NJ,US,7055,+1 901 840 9274,cchestnutt2i@unc.edu
+3562001692,Layne,Isacco,Phelips,5602236760338580,amex,500000,2018-12-04,346586073,Old Willow Mall,Caguas,PR,US,726,+1 979 495 1707,iphelips2j@twitter.com
+3562001693,Zilvia,Raynard,Fox,5602242963853220,amex,500000,2027-09-25,224472153,Jagged Embers By-pass,San Antonio,TX,US,78227,+1 727 160 0527,rfox2k@over-blog.com
+3562001695,Derron,Gothart,Kitchinghan,4913225109356710,visa,50000,2019-10-22,893685782,Burning Glen,Fontana,CA,US,92336,+1 205 795 5603,gkitchinghan2m@histats.com
+3562001696,Ray,,Dilliway,3583849494251710,visa,50000,2027-07-05,751883259,Heather Plaza,Brownsville,TX,US,78521,+1 904 395 4905,rdilliway2n@istockphoto.com
+3562001697,Ebenezer,Corty,Demanche,6759542041496280,master,100000,2021-04-30,150789497,Harvest Beacon Plaza,Stafford,VA,US,22554,+1 317 321 1776,cdemanche2o@slate.com
+3562001698,Tillie,Corty,Denisot,3550166575967910,visa,50000,2025-04-23,802751526,Quaking Street,Caguas,PR,US,727,+1 503 318 3058,cdenisot2p@storify.com
+3562001699,Brig,,Tompkiss,2014268557886530,amex,500000,2022-02-28,342068735,Hazy Pony Square,Pico Rivera,CA,US,90660,+1 913 161 0499,btompkiss2q@wikia.com
+3562001700,Martha,,Harnes,3557727107117620,visa,50000,2026-04-29,327478784,Noble Embers Ridge,Littleton,CO,US,80126,+1 860 906 1706,mharnes2r@about.com
